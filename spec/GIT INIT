@@ -1,0 +1,5 @@
+~ $ mkdir next-big-thing
+~ $ cd next-big-thing
+next-big-thing $ ls
+next-big-thing $ git init
+Initialized empty Git repository in /Users/avi/next-big-thing/.git/

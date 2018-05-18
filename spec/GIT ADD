@@ -1,0 +1,11 @@
+next-big-things $ git add README.md
+next-big-thing $ git statusOn branch master
+
+Initial commit
+
+Changes to be committed"
+  (use "git rm --cached <file>..." to unstage)
+
+    new file:   README.md
+    git add .
+    

@@ -1,0 +1,4 @@
+next-big-thing $ git commit -m "Added README.md"
+[master (root-commit) e55477d] Added README.md
+ 1 file changed, 0 insertions(+), 0 deletions (-)
+ create mode 10644 READ<E/md
